@@ -4,11 +4,13 @@
 
 ## Motivation
 
-Open source software is a multicultural product. When you install/use a piece of software, you rarely think of a person who created it. Nevertheless, each creator has its national and cultural context. Our goal is to highlight the Ukrainian part of your `package.json`, `requirements.txt`, `Gemfile`, etc.
+Software development industry is growing faster than ever in Kazakshtan. Despite the fact that it was introduced not that long ago in our country, there are already developers who managed to contribute to the worldwide community by making open-source projects and contributing to them. 
 
-Moreover, lots of developers from Kazakhstan don't even know about their fellow citizens creating popular projects. It makes you proud when you undestand how much Ukrainians contribute to global software culture.
+Yet maybe there are not that many of them, but we need to understand that the open-source software culture is only emerging in our country and we need to support it.
 
-A lot of developers in Kazakshtan do not know about these projects and the fact that their authors are also programmers from Kazakhstan. It warms your heart when you understand that a lot of highly popular and useful projects are made by our fellow countrymen.
+Goal of this list is to foster open-source & software engineering culture in Kazakhstan by highlighting the Kazakhstani part of your `package.json`, `Podfile`, `requirements.txt`, `Gemfile` & etc.
+
+A lot of developers in Kazakshtan do not know about awesome projects made by their fellow countrymen, yet it undoubtedly warms your heart when you see that one of our developers made a piece of software that helps & used by people out there in the world.
 
 ## > 100 ⭐️ 
 
@@ -45,16 +47,22 @@ This list includes projects under this criteria:
 2. The project's creator or maintainer was born in Kazakhstan
 3. The project creator or maintainer self-identify themselves as Kazakh/Kazakhstani
 
-If these conditions are met, feel free to open a PR.
+If these conditions are met, feel free to open a PR.<br>
+When submitting changes please check that you have picked the category correctly and added the project according to descending order of stars.
 
-Feel free to add new section if the appropriate one doesn't exist yet.
+Feel free to add new section (number of stars range) if the appropriate one doesn't exist yet.
 
-It's hard to calculate project popularity so we use stars as a measurement. It's not quite fair, but it is what we have here on Github.
+If you are aware of some project that meets the above criteria alongside with the approval of the author himself - feel free to submit PR too!
 
+## Let's connect
 
-If they do, feel free to make a PR!
-
-(Please, check twice that you have picked the correct category and added the project according to alphabetical order.)
+- [Backend Developers of Kazakshtan](https://t.me/backenderskz)
+- [Mobile Dev Kazakhstan](https://t.me/mobile_dev_kz)
+- [iOS KZ](https://t.me/iOSDevelopers_KZ)
+- [Android KZ](https://t.me/android_kz)
+- [AWS KZ](https://t.me/aws_kz)
+- [Python KZ](https://t.me/python_kz)
+- [Frontend KZ](https://t.me/frontendkz)
 
 ## Credits
 
