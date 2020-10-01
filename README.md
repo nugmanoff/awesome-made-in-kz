@@ -38,6 +38,10 @@ A lot of developers in Kazakshtan do not know about awesome projects made by the
   Simple UI for pincode verification<br>
   ![Stars](https://img.shields.io/github/stars/danchokobo/react-native-code-verification?style=flat-square&color=fec604&labelColor=00b0cb)
 
+- **[sozdik-android](https://github.com/sozdik-kz/sozdik-android)** by [Askar Syzdykov](https://github.com/askarsyzdykov)<br>
+ Online Kazakh-2-Russian (and vice versa) dictionary<br>
+  ![Stars](https://img.shields.io/github/stars/sozdik-kz/sozdik-android?style=flat-square&color=fec604&labelColor=00b0cb)
+
 
 ## Contributing 
 
