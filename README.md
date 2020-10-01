@@ -43,6 +43,9 @@ A lot of developers in Kazakshtan do not know about awesome projects made by the
  Online Kazakh-2-Russian (and vice versa) dictionary<br>
   ![Stars](https://img.shields.io/github/stars/sozdik-kz/sozdik-android?style=flat-square&color=fec604&labelColor=00b0cb)
 
+- **[galleryPicker-android](https://github.com/timkabot/GalleryPicker)** by [Timur Borgalinov](https://github.com/timkabot)<br>
+ BottomSheet gallery library for android<br>
+  ![Stars](https://img.shields.io/github/stars/timkabot/GalleryPicker?style=flat-square&color=fec604&labelColor=00b0cb)
 
 ## Contributing 
 
