@@ -39,12 +39,15 @@ A lot of developers in Kazakshtan do not know about awesome projects made by the
   ![Stars](https://img.shields.io/github/stars/danchokobo/react-native-code-verification?style=flat-square&color=fec604&labelColor=00b0cb)
 
 ## Promising
-- **[sozdik-android](https://github.com/sozdik-kz/sozdik-android)** by [Askar Syzdykov](https://github.com/askarsyzdykov)<br>
- Online Kazakh-2-Russian (and vice versa) dictionary<br>
-  ![Stars](https://img.shields.io/github/stars/sozdik-kz/sozdik-android?style=flat-square&color=fec604&labelColor=00b0cb)
 - **[Laddy](https://github.com/ironsoul0/laddy)** by [Temirzhan Yussupov](https://github.com/ironsoul0)<br>
  Hand-picked problems for your Codeforces rating<br>
   ![Stars](https://img.shields.io/github/stars/ironsoul0/laddy?style=flat-square&color=fec604&labelColor=00b0cb)
+- **[sozdik-android](https://github.com/sozdik-kz/sozdik-android)** by [Askar Syzdykov](https://github.com/askarsyzdykov)<br>
+ Online Kazakh-2-Russian (and vice versa) dictionary<br>
+  ![Stars](https://img.shields.io/github/stars/sozdik-kz/sozdik-android?style=flat-square&color=fec604&labelColor=00b0cb)
+- **[Leetcoder](https://github.com/yerlantemir/leetcoder)** by [Temir Yerlan](https://github.com/yerlantemir)<br>
+ Chrome extension adds sorting to leetcode.com problems<br>
+  ![Stars](https://img.shields.io/github/stars/yerlantemir/leetcoder?style=flat-square&color=fec604&labelColor=00b0cb)
 
 ## Contributing 
 
