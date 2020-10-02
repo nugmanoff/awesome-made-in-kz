@@ -48,7 +48,7 @@ A lot of developers in Kazakshtan do not know about awesome projects made by the
 
 This list includes projects under this criteria:
 
-1. The project has over 100 stars
+1. The project has over *100 stars*
 2. The project's creator or maintainer was born in Kazakhstan
 3. The project creator or maintainer self-identify themselves as Kazakh/Kazakhstani
 
@@ -58,6 +58,15 @@ When submitting changes please check that you have picked the category correctly
 Feel free to add new section (number of stars range) if the appropriate one doesn't exist yet.
 
 If you are aware of some project that meets the above criteria alongside with the approval of the author himself - feel free to submit PR too!
+
+### Promising projects
+
+Rationale behind submitting projects to _Promising_ is quite intuitive, but it is hard to formulate it, but let's give it a shot:
+
+- Project needs to already have some initial traction and prove their usefulness to the community. It is really hard to formulate this criteria in terms of numbers of stars, so for now the process of submission will be on-premise and bit subjective.
+- This section shouldn't serve as an advertisement platform for the projects, it is more of a showcase of already established projects with traction (no inference made to the number of stars here, project could be really well established and with a great value to community but have less than 100 stars)
+
+All in all, submission to the _Promising_ section will be discussed in the PR all members of the community are welcome to join. This makes the process quite cumbersome and subjective though, but it's the best we can do for now.
 
 ## Let's connect
 
