@@ -18,6 +18,10 @@ A lot of developers in Kazakshtan do not know about awesome projects made by the
   Animated Social share buttons control for iOS<br>
   ![Stars](https://img.shields.io/github/stars/mixdesign/AAShareBubbles?style=flat-square&color=fec604&labelColor=00b0cb)
 
+- **[awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks)** by [Islam Temirbek](https://github.com/aitemr)<br>
+  A curated list of awesome Git hooks<br>
+  ![Stars](https://img.shields.io/github/stars/aitemr/awesome-git-hooks?style=flat-square&color=fec604&labelColor=00b0cb)
+
 - **[meteor-rethinkdb](https://github.com/Slava/meteor-rethinkdb)** by [Slava Kim](https://github.com/Slava)<br>
   RethinkDB integration for Meteor<br>
   ![Stars](https://img.shields.io/github/stars/Slava/meteor-rethinkdb?style=flat-square&color=fec604&labelColor=00b0cb)
