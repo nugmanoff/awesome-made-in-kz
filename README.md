@@ -50,6 +50,9 @@ A lot of developers in Kazakshtan do not know about awesome projects made by the
 - **[Laddy](https://github.com/ironsoul0/laddy)** by [Temirzhan Yussupov](https://github.com/ironsoul0)<br>
  Hand-picked problems for your Codeforces rating<br>
   ![Stars](https://img.shields.io/github/stars/ironsoul0/laddy?style=flat-square&color=fec604&labelColor=00b0cb)
+- **[Taza](https://github.com/danabeknar/taza)** by [Beknar Danabek](https://github.com/danabeknar/)<br>
+ CLI tool to keep your iOS project clean<br>
+  ![Stars](https://img.shields.io/github/stars/danabeknar/taza?style=flat-square&color=fec604&labelColor=00b0cb)
 - **[sozdik-android](https://github.com/sozdik-kz/sozdik-android)** by [Askar Syzdykov](https://github.com/askarsyzdykov)<br>
  Online Kazakh-2-Russian (and vice versa) dictionary<br>
   ![Stars](https://img.shields.io/github/stars/sozdik-kz/sozdik-android?style=flat-square&color=fec604&labelColor=00b0cb)
