@@ -46,6 +46,10 @@ A lot of developers in Kazakshtan do not know about awesome projects made by the
   Simple UI for pincode verification<br>
   ![Stars](https://img.shields.io/github/stars/danchokobo/react-native-code-verification?style=flat-square&color=fec604&labelColor=00b0cb)
 
+- **[NCANode](https://github.com/malikzh/NCANode)** by [Malik Zharykov](https://github.com/malikzh)<br>
+  EDS Sign server created with Kalkancrypt libraries<br>
+  ![Stars](https://img.shields.io/github/stars/malikzh/NCANode?style=flat-square&color=fec604&labelColor=00b0cb)
+
 ## Promising
 - **[Laddy](https://github.com/ironsoul0/laddy)** by [Temirzhan Yussupov](https://github.com/ironsoul0)<br>
  Hand-picked problems for your Codeforces rating<br>
