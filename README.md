@@ -14,13 +14,17 @@ A lot of developers in Kazakshtan do not know about awesome projects made by the
 
 ## > 100 ⭐️ 
 
-- **[AAShareBubbles](https://github.com/mixdesign/AAShareBubbles)** by [Almas Adilbek](https://github.com/mixdesign)<br>
-  Animated Social share buttons control for iOS<br>
-  ![Stars](https://img.shields.io/github/stars/mixdesign/AAShareBubbles?style=flat-square&color=fec604&labelColor=00b0cb)
+- **[sqlite-orm](https://github.com/fnc12/sqlite_orm)** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
+  SQLite ORM light header only library for modern C++<br>
+  ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square&color=fec604&labelColor=00b0cb)
 
 - **[awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks)** by [Islam Temirbek](https://github.com/aitemr)<br>
   A curated list of awesome Git hooks<br>
   ![Stars](https://img.shields.io/github/stars/aitemr/awesome-git-hooks?style=flat-square&color=fec604&labelColor=00b0cb)
+  
+- **[AAShareBubbles](https://github.com/mixdesign/AAShareBubbles)** by [Almas Adilbek](https://github.com/mixdesign)<br>
+  Animated Social share buttons control for iOS<br>
+  ![Stars](https://img.shields.io/github/stars/mixdesign/AAShareBubbles?style=flat-square&color=fec604&labelColor=00b0cb)
 
 - **[meteor-rethinkdb](https://github.com/Slava/meteor-rethinkdb)** by [Slava Kim](https://github.com/Slava)<br>
   RethinkDB integration for Meteor<br>
