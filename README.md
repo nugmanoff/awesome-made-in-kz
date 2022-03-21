@@ -26,13 +26,13 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   Animated Social share buttons control for iOS<br>
   ![Stars](https://img.shields.io/github/stars/mixdesign/AAShareBubbles?style=flat-square&color=fec604&labelColor=00b0cb)
 
-- **[meteor-rethinkdb](https://github.com/Slava/meteor-rethinkdb)** by [Slava Kim](https://github.com/Slava)<br>
-  RethinkDB integration for Meteor<br>
-  ![Stars](https://img.shields.io/github/stars/Slava/meteor-rethinkdb?style=flat-square&color=fec604&labelColor=00b0cb)
-
 - **[Equinox](https://github.com/kekland/equinox)** by [Erzhan](https://github.com/kekland)<br>
   Flutter UI library based on Eva Design System<br>
   ![Stars](https://img.shields.io/github/stars/kekland/equinox?style=flat-square&color=fec604&labelColor=00b0cb)
+
+- **[meteor-rethinkdb](https://github.com/Slava/meteor-rethinkdb)** by [Slava Kim](https://github.com/Slava)<br>
+  RethinkDB integration for Meteor<br>
+  ![Stars](https://img.shields.io/github/stars/Slava/meteor-rethinkdb?style=flat-square&color=fec604&labelColor=00b0cb)
 
 - **[tern-meteor-sublime](https://github.com/Slava/tern-meteor-sublime)** by [Slava Kim](https://github.com/Slava)<br>
   Meteor Framework autocompletion for Sublime<br>
@@ -41,18 +41,22 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 - **[SubscriptionPrompt](https://github.com/binchik/SubscriptionPrompt)** by [Binur Konarbai](https://github.com/binchik)<br>
   Subscription View Controller like the Tinder uses<br>
   ![Stars](https://img.shields.io/github/stars/binchik/SubscriptionPrompt?style=flat-square&color=fec604&labelColor=00b0cb)  
+
+- **[NCANode](https://github.com/malikzh/NCANode)** by [Malik Zharykov](https://github.com/malikzh)<br>
+  EDS Sign server created with Kalkancrypt libraries<br>
+  ![Stars](https://img.shields.io/github/stars/malikzh/NCANode?style=flat-square&color=fec604&labelColor=00b0cb)
+
+- **[react-native-code-verification](https://github.com/danchokobo/react-native-code-verification)** by [Danagul Otel](https://github.com/danchokobo)<br>
+  Simple UI for pincode verification<br>
+  ![Stars](https://img.shields.io/github/stars/danchokobo/react-native-code-verification?style=flat-square&color=fec604&labelColor=00b0cb)
   
 - **[AYStepperView](https://github.com/yenbekbay/AYStepperView)** by [Ayan Yenbekbay](https://github.com/yenbekbay)<br>
   A simple customizable stepper view written in Objective C<br>
   ![Stars](https://img.shields.io/github/stars/yenbekbay/AYStepperView?style=flat-square&color=fec604&labelColor=00b0cb)
 
-- **[react-native-code-verification](https://github.com/danchokobo/react-native-code-verification)** by [Danagul Otel](https://github.com/danchokobo)<br>
-  Simple UI for pincode verification<br>
-  ![Stars](https://img.shields.io/github/stars/danchokobo/react-native-code-verification?style=flat-square&color=fec604&labelColor=00b0cb)
+- **[nextjs-sitemap](https://github.com/SergeyMyssak/nextjs-sitemap)** by [Sergey Myssak](https://github.com/SergeyMyssak) and [Andrey Myssak](https://github.com/andreymyssak)<br>Generate dynamic sitemap.xml for Next.js projects following the example of Google! <br>
+  ![Stars](https://img.shields.io/github/stars/SergeyMyssak/nextjs-sitemap?style=flat-square&color=fec604&labelColor=00b0cb)
 
-- **[NCANode](https://github.com/malikzh/NCANode)** by [Malik Zharykov](https://github.com/malikzh)<br>
-  EDS Sign server created with Kalkancrypt libraries<br>
-  ![Stars](https://img.shields.io/github/stars/malikzh/NCANode?style=flat-square&color=fec604&labelColor=00b0cb)
 
 ## Promising
 - **[Laddy](https://github.com/ironsoul0/laddy)** by [Temirzhan Yussupov](https://github.com/ironsoul0)<br>
