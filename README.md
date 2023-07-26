@@ -13,7 +13,10 @@ Goal of this list is to foster open-source & software engineering culture in Kaz
 A lot of developers in Kazakhstan do not know about awesome projects made by their fellow countrymen, yet it undoubtedly warms your heart when you see that one of our developers made a piece of software that helps & used by people out there in the world.
 
 ## > 100 ⭐️ 
-
+- **[RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)** by [Yerzat Dulat](https://github.com/higgsfield)<br>
+  RL-Adventure-2: Policy Gradients<br>
+  ![Stars](https://img.shields.io/github/stars/higgsfield/RL-Adventure-2?style=flat-square&color=fec604&labelColor=00b0cb)
+  
 - **[sqlite-orm](https://github.com/fnc12/sqlite_orm)** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
   ![Stars](https://img.shields.io/github/stars/fnc12/sqlite_orm?style=flat-square&color=fec604&labelColor=00b0cb)
