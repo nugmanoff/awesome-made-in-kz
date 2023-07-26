@@ -14,7 +14,7 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 
 ## > 100 ⭐️ 
 - **[RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)** by [Yerzat Dulat](https://github.com/higgsfield)<br>
-  PyTorch tutorial of: actor critic / proximal policy optimization / acer / ddpg / twin dueling ddpg / soft actor critic / generative adversarial imitation learning / hindsight experience replay<br>
+  RL-Adventure-2: Policy Gradients<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/RL-Adventure-2?style=flat-square&color=fec604&labelColor=00b0cb)
   
 - **[sqlite-orm](https://github.com/fnc12/sqlite_orm)** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
