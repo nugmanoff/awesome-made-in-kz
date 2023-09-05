@@ -52,6 +52,9 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 - **[NCANode](https://github.com/malikzh/NCANode)** by [Malik Zharykov](https://github.com/malikzh)<br>
   EDS Sign server created with Kalkancrypt libraries<br>
   ![Stars](https://img.shields.io/github/stars/malikzh/NCANode?style=flat-square&color=fec604&labelColor=00b0cb)
+  
+- **[nextjs-sitemap](https://github.com/SergeyMyssak/nextjs-sitemap)** by [Sergey Myssak](https://github.com/SergeyMyssak) and [Andrey Myssak](https://github.com/andreymyssak)<br>Generate dynamic sitemap.xml for Next.js projects following the example of Google! <br>
+  ![Stars](https://img.shields.io/github/stars/SergeyMyssak/nextjs-sitemap?style=flat-square&color=fec604&labelColor=00b0cb)
 
 - **[react-native-code-verification](https://github.com/danchokobo/react-native-code-verification)** by [Danagul Otel](https://github.com/danchokobo)<br>
   Simple UI for pincode verification<br>
@@ -61,8 +64,6 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   A simple customizable stepper view written in Objective C<br>
   ![Stars](https://img.shields.io/github/stars/yenbekbay/AYStepperView?style=flat-square&color=fec604&labelColor=00b0cb)
 
-- **[nextjs-sitemap](https://github.com/SergeyMyssak/nextjs-sitemap)** by [Sergey Myssak](https://github.com/SergeyMyssak) and [Andrey Myssak](https://github.com/andreymyssak)<br>Generate dynamic sitemap.xml for Next.js projects following the example of Google! <br>
-  ![Stars](https://img.shields.io/github/stars/SergeyMyssak/nextjs-sitemap?style=flat-square&color=fec604&labelColor=00b0cb)
 
 
 ## Promising
