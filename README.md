@@ -41,6 +41,10 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
   RethinkDB integration for Meteor<br>
   ![Stars](https://img.shields.io/github/stars/Slava/meteor-rethinkdb?style=flat-square&color=fec604&labelColor=00b0cb)
 
+- **[TabBar](https://github.com/onl1ner/TabBar)** by [Tamerlan Satualdypov](https://github.com/onl1ner)<br>
+  TabBar – highly customizable tab bar (i.e. TabView) for your SwiftUI application.<br>
+  ![Stars](https://img.shields.io/github/stars/onl1ner/TabBar?style=flat-square&color=fec604&labelColor=00b0cb)
+
 - **[tern-meteor-sublime](https://github.com/Slava/tern-meteor-sublime)** by [Slava Kim](https://github.com/Slava)<br>
   Meteor Framework autocompletion for Sublime<br>
   ![Stars](https://img.shields.io/github/stars/Slava/tern-meteor-sublime?style=flat-square&color=fec604&labelColor=00b0cb)  
