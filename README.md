@@ -13,6 +13,10 @@ Goal of this list is to foster open-source & software engineering culture in Kaz
 A lot of developers in Kazakhstan do not know about awesome projects made by their fellow countrymen, yet it undoubtedly warms your heart when you see that one of our developers made a piece of software that helps & used by people out there in the world.
 
 ## > 100 ⭐️ 
+- **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
+  FastAPI Best Practices<br>
+  ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square&color=fec604&labelColor=00b0cb)
+
 - **[RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)** by [Yerzat Dulat](https://github.com/higgsfield)<br>
   RL-Adventure-2: Policy Gradients<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/RL-Adventure-2?style=flat-square&color=fec604&labelColor=00b0cb)
