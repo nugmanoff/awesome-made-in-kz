@@ -24,6 +24,10 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 - **[awesome-git-hooks](https://github.com/aitemr/awesome-git-hooks)** by [Islam Temirbek](https://github.com/aitemr)<br>
   A curated list of awesome Git hooks<br>
   ![Stars](https://img.shields.io/github/stars/aitemr/awesome-git-hooks?style=flat-square&color=fec604&labelColor=00b0cb)
+
+- **[algos](https://github.com/ADJA/algos)** by [Adilet Zhaxybay](https://github.com/ADJA)<br>
+  Collection of different algorithms, used for programming competitions like ACM ICPC.<br>
+  ![Stars](https://img.shields.io/github/stars/ADJA/algos?style=flat-square&color=fec604&labelColor=00b0cb)
   
 - **[AAShareBubbles](https://github.com/mixdesign/AAShareBubbles)** by [Almas Adilbek](https://github.com/mixdesign)<br>
   Animated Social share buttons control for iOS<br>
