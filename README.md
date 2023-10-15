@@ -20,10 +20,6 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 - **[Higgsfield](https://github.com/higgsfield/higgsfield)** by [Yerzat Dulat](https://github.com/higgsfield) and [Omar Änwar](https://github.com/arpanetus)<br>
   Fault-tolerant, highly scalable cluster management, and a machine learning framework designed for training models with billions to trillions of parameters<br>
   ![Stars](https://img.shields.io/github/stars/higgsfield/higgsfield?style=flat-square&color=fec604&labelColor=00b0cb)
-
-- **[RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)** by [Yerzat Dulat](https://github.com/higgsfield)<br>
-  RL-Adventure-2: Policy Gradients<br>
-  ![Stars](https://img.shields.io/github/stars/higgsfield/RL-Adventure-2?style=flat-square&color=fec604&labelColor=00b0cb)
   
 - **[sqlite-orm](https://github.com/fnc12/sqlite_orm)** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
