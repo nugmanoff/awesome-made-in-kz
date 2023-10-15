@@ -16,10 +16,6 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 - **[fastapi-best-practices](https://github.com/zhanymkanov/fastapi-best-practices)** by [Yerassyl Zhanymkanov](https://github.com/zhanymkanov)<br>
   FastAPI Best Practices<br>
   ![Stars](https://img.shields.io/github/stars/zhanymkanov/fastapi-best-practices?style=flat-square&color=fec604&labelColor=00b0cb)
-
-- **[RL-Adventure-2](https://github.com/higgsfield/RL-Adventure-2)** by [Yerzat Dulat](https://github.com/higgsfield)<br>
-  RL-Adventure-2: Policy Gradients<br>
-  ![Stars](https://img.shields.io/github/stars/higgsfield/RL-Adventure-2?style=flat-square&color=fec604&labelColor=00b0cb)
   
 - **[sqlite-orm](https://github.com/fnc12/sqlite_orm)** by [Yevgeniy Zakharov](https://github.com/fnc12)<br>
   SQLite ORM light header only library for modern C++<br>
