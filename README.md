@@ -84,8 +84,11 @@ A lot of developers in Kazakhstan do not know about awesome projects made by the
 - **[sozdik-android](https://github.com/sozdik-kz/sozdik-android)** by [Askar Syzdykov](https://github.com/askarsyzdykov)<br>
  Online Kazakh-2-Russian (and vice versa) dictionary<br>
   ![Stars](https://img.shields.io/github/stars/sozdik-kz/sozdik-android?style=flat-square&color=fec604&labelColor=00b0cb)
+- **[Eng-Kk-Tech-Dictionary](https://github.com/son-of-Altay/eng-kk-tech-dictionary)** by [Mukhammedali Muratkhan](https://github.com/son-of-Altay)<br>
+  English-Kazakh Dictionary of IT terms<br>
+  ![Stars](https://img.shields.io/github/stars/son-of-Altay/eng-kk-tech-dictionary?style=flat-square&color=fec604&labelColor=00b0cb)
 - **[Leetcoder](https://github.com/yerlantemir/leetcoder)** by [Temir Yerlan](https://github.com/yerlantemir)<br>
- Chrome extension adds sorting to leetcode.com problems<br>
+  Chrome extension adds sorting to leetcode.com problems<br>
   ![Stars](https://img.shields.io/github/stars/yerlantemir/leetcoder?style=flat-square&color=fec604&labelColor=00b0cb)
 
 ## Contributing 
